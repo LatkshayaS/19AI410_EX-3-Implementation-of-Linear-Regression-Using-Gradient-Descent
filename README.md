@@ -84,7 +84,7 @@ print("Final bias (b):", b)
 ```
 
 ## Output:
-![19CS410_EX-3](sam.png)
+![19AI410_EX-3](19AI410EX3)
 
 
 ## Result:
