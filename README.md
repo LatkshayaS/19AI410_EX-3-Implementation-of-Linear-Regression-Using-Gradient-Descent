@@ -84,7 +84,7 @@ print("Final bias (b):", b)
 ```
 
 ## Output:
-![19AI410EX3](19AI410EX3)
+![19AI410EX3](19AL410EX3)
 
 
 ## Result:
